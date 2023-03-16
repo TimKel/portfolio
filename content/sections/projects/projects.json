@@ -2,8 +2,27 @@
   "projects": [
     {
       "visible": true,
+      "category": "Next level coffee for those who need a little extra",
+      "title": "☕️ Natural Nitro Labs Shopify",
+      "description": "Natural Nitro was a paid job to build the Shopify site for Natural Nitro Labs customers to find, learn and purchase Nitro Coffee. ",
+      "tags": ["Shopify", "CSS", "Multiple Plug-ins"],
+      "image": {
+        "src": "../../images/naturalnitro.png",
+        "alt": "Screenshot of Natural Nitro Store app",
+        "linkTo": "https://shop.naturalnitrocoffee.com"
+      },
+      "links": [
+        
+        {
+          "type": "external",
+          "url": "https://shop.naturalnitrocoffee.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "A place to share your thoughts",
-      "title": "BlogStone ✍️",
+      "title": "✍️  BlogStone",
       "description": "A personal blogspace crafted from scratch. Using React, Node and Postgresql users can create an account and access a fully capable CRUD app to post what's on their mind. Front-end and Back-end github links are below.",
       "tags": ["React", "Node", "Express", "HTML & CSS", "SQL"],
       "image": {
@@ -31,7 +50,7 @@
     {
       "visible": true,
       "category": "Share and find skate spots in your area",
-      "title": "🛹 SpotIt",
+      "title": "🛹   SpotIt",
       "description": "SpotIt was built with Python, utilizing GoogleMap API's. It's built for the skateboard community to be able to locate and/or share skatespots that previously could only be found via word of mouth. Users can easily add/edit/remove spots or find new locations with directions.",
       "tags": ["Python", "Flask", "SQLAlchemy", "Bootstrap"],
       "image": {
@@ -53,7 +72,7 @@
     {
       "visible": true,
       "category": "Your one stop, mock job portal shop",
-      "title": "📤 Jobly",
+      "title": "📤   Jobly",
       "description": "Jobly is a mock job portal. Users must sign up, where they can search companies along with their open jobs and apply to ones they're interested in. The search function is hand built instead of using an API. Local Storage was used to keep users logged in. React is used for the front end with Node/Express on the backend. Front and Back-end git hub links are below.",
       "tags": ["React", "Node", "Express", "PostgreSQL"],
       "image": {
@@ -79,7 +98,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit My Github",
+    "label": "Visit My Github For More",
     "url": "https://github.com/TimKel"
   }
 }
