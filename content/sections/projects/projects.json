@@ -2,40 +2,51 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "A place to share your thoughts",
+      "title": "BlogStone ✍️",
+      "description": "A personal blogspace crafted from scratch. Using React, Node and Postgresql users can create an account and access a fully capable CRUD app to post what's on their mind. Front-end and Back-end github links are below.",
+      "tags": ["React", "Node", "Express", "HTML & CSS", "SQL"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/blogstone.png",
+        "alt": "Screenshot of blogstone app",
+        "linkTo": "http://blogstone.surge.sh"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "title": "front-end",
+          "url": "https://github.com/TimKel/BlogStone-frontend"
+        },
+        {
+          "type": "github",
+          "title": "back-end",
+          "url": "https://github.com/TimKel/BlogStone-backend"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "http://blogstone.surge.sh"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Share and find skate spots in your area",
+      "title": "🛹 SpotIt",
+      "description": "SpotIt was built with Python, utilizing GoogleMap API's. It's built for the skateboard community to be able to locate and/or share skatespots that previously could only be found via word of mouth. Users can easily add/edit/remove spots or find new locations with directions.",
+      "tags": ["Python", "Flask", "SQLAlchemy", "Bootstrap"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/spotit.png",
+        "alt": "Screenshot of Spot it App",
+        "linkTo": "https://spot-it-project.herokuapp.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://spot-it-project.herokuapp.com"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/TimKel/CapstoneProject"
         }
       ]
     }
