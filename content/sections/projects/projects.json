@@ -49,11 +49,37 @@
           "url": "https://github.com/TimKel/CapstoneProject"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Your one stop, mock job portal shop",
+      "title": "📤 Jobly",
+      "description": "Jobly is a mock job portal. Users must sign up, where they can search companies along with their open jobs and apply to ones they're interested in. The search function is hand built instead of using an API. Local Storage was used to keep users logged in. React is used for the front end with Node/Express on the backend. Front and Back-end git hub links are below.",
+      "tags": ["React", "Node", "Express", "PostgreSQL"],
+      "image": {
+        "src": "../../images/jobly.png",
+        "alt": "Screenshot of Jobly App",
+        "linkTo": "http://elfin-breath.surge.sh"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/TimKel/react-jobly-frontend"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/TimKel/jobly"
+        },
+        {
+          "type": "external",
+          "url": "http://elfin-breath.surge.sh"
+        }
+      ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit My Github",
+    "url": "https://github.com/TimKel"
   }
 }
