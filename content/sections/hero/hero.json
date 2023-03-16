@@ -1,5 +1,5 @@
 {
-  "intro": "Hello </>",
+  "intro": "Hello ",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -12,9 +12,9 @@
   "subtitle": {
     "prefix": "A ",
     "highlight": "Software Developer",
-    "suffix": "."
+    "suffix": ". </>"
   },
-  "description": "I design intuitive software solutions and elegant web experiences that make a difference",
+  "description": "I design intuitive software solutions and elegant web experiences that make a difference.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true

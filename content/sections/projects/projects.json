@@ -42,11 +42,11 @@
       "links": [
         {
           "type": "github",
-          "url": "https://spot-it-project.herokuapp.com"
+          "url": "https://github.com/TimKel/CapstoneProject"
         },
         {
           "type": "external",
-          "url": "https://github.com/TimKel/CapstoneProject"
+          "url": "https://spot-it-project.herokuapp.com"
         }
       ]
     },
