@@ -1,13 +1,13 @@
 {
   "name": "Tim Kelley | Software Developer",
   "email": "timkelley683@gmail.com",
-  "description": "If you have additional questions or want to reach out about a project, reach out below.",
+  "description": "If you have additional questions or want to reach out about a job or project to collaborate on, reach out below.",
   "image": {
     "src": "../../images/profile-photo.png",
     "alt": "Profile Photo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }
