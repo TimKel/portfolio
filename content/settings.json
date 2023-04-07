@@ -5,9 +5,9 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Tim Kelley's Portfolio",
-    "author": "Konstantin Münster",
+    "author": "Tim Kelley",
     "avatar": "../content/images/administrator-developer-icon.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Tim Kelley is a software developer and data enthusiast currently based out of Las Vegas, NV",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/TimKel",
@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Blog", "url": "/blog"},
         { "label": "Projects", "url": "/#features" },
         { "label": "Contact", "url": "/#github" }
       ],
