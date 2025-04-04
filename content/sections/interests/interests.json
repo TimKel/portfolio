@@ -1,6 +1,27 @@
 {
   "interests": [
     {
+      "label": "Power BI including DAX",
+      "image": {
+        "src": "../../images/PowerBI.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/sqlpngwing.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/n65r8rbno1b7cobkd4qvldhbsd-c08f91f231e0383d5e78438d07be5c65.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Javascript",
       "image": {
         "src": "../../images/jsicon.png",
@@ -22,13 +43,6 @@
       }
     },
     {
-      "label": "Python",
-      "image": {
-        "src": "../../images/n65r8rbno1b7cobkd4qvldhbsd-c08f91f231e0383d5e78438d07be5c65.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "HTML",
       "image": {
         "src": "../../images/pngwing.com-4.png", 
@@ -43,7 +57,7 @@
       }
     },
     {
-      "label": "SQL and PostgreSQL",
+      "label": "PostgreSQL, MySQL and SSMS",
       "image": {
         "src": "../../images/pngwing.com-6.png",
         "alt": ""

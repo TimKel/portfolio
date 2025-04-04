@@ -11,10 +11,10 @@
   "title": "I'm Tim Kelley",
   "subtitle": {
     "prefix": "A ",
-    "highlight": "Software Developer",
+    "highlight": "Power BI Developer",
     "suffix": ". </>"
   },
-  "description": "I design intuitive software solutions and elegant web experiences that make a difference.",
+  "description": "I design and develop intuitive Data and BI solutions that make a difference.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
