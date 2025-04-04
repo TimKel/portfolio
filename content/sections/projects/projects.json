@@ -98,7 +98,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit My Github For More",
-    "url": "https://github.com/TimKel"
+    "label": "View My Resume",
+    "url": "/Tim-Kelley-Resume.pdf"
   }
 }

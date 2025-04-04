@@ -7,12 +7,8 @@
     "alt": "Profile Photo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Resume", "LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
-  ,"ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/Tim-Kelley-Resume.pdf"
-      }
+
 }

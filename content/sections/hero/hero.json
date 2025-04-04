@@ -16,12 +16,7 @@
   },
   "description": "I design and develop intuitive Data and BI solutions that make a difference.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Resume", "LinkedIn", "Github", "Mail"],
     "showIcons": true
-  },
-  "button": {
-    "visible": true,
-    "label": "Resume",
-    "url": "/Tim-Kelley-Resume.pdf"
   }
 }
