@@ -1,47 +1,37 @@
 ---
-title: "An article discussing todays challenges in tech."
-description: "Todays Tech Challenges"
-date: "2023-02-28"
+title: "Revenue reporting with a twist."
+description: "Revenue reporting with a twist."
+date: "2025-04-05"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/salesDashboardWithToolTips.png"
+  alt: "Sales Dashboard Photo"
+  caption: 'Report developed by <u>Tim Kelley</u>'
 categories:
-  - "Blog"
-  - "Example"
+  - "Data-Warehousing"
+  - "Power BI"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+  - "Azure Synapse"
+  - "Data-Warehouse"
+  - "SQL"
+  - "Power BI"
+  - "DAX"
 ---
 
-## Todays Technology Challenges
+## Overview
 
-As technology continues to evolve, software development has become a critical aspect of the tech industry. With more companies relying on software applications for their daily operations, developers face new challenges that require them to stay on top of the latest trends and technologies. Here are some of the most pressing challenges that software developers face today:
+What an excellent challenge this report was. Data was extracted from SAP into a custom built Data Warehouse. The client request was to not only see performance in dollars, but in tons as well. Within Tons, they needed to see it by Metric and US tons as well. Along with that, they needed to see a separation of closed revenue and open revenue. All of this in comparison to Revenue Plan as well. The solution was to create Switch statements in DAX, allowing the buttons to the left to flip the entire report to the desired metric definition. 
 
-## Security:
+## Challenges:
 
-Security is a crucial aspect of software development, and developers must be well-versed in cybersecurity best practices. They must ensure that the software they develop is secure, and users' data is protected. Cyber threats such as malware, phishing, and ransomware continue to evolve, and developers must keep up with these threats to create secure software.
+This report was a challenge in itself based on what's above, but came out very successful. Switch statements allowed the functionality as requested. I also used bookmarks in the top right visual to provide a monthly and quarterly view depending on how larage the date selection was. I think the ultimately challenge I overcame here was determining an approach with numerous requests on how the report needed to function without adding additional pages and keeping the report lightning fast. 
 
-## Scalability:
+## Custom Tooltips:
 
-Software developers must ensure that their applications can scale to meet the demands of their users. Scalability involves designing applications that can handle a growing number of users and increasing data volume. Developers must ensure that their applications are efficient and can handle high traffic volumes without crashing or slowing down.
+To add more insight analysis, I created a custom tooltip. When an employee hovers over the 4 different slices or categories on the bottom left, they get additional detail on how that specific product, customer, etc is performing against their individual plans. 
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+![This is the alt tag.](../../images/CustomToolTip.png "Example of the custom tooltip I built.")
 
-## Continuous Integration and Deployment:
+## Adoption:
 
-With the rise of DevOps, continuous integration, and deployment (CI/CD) have become essential practices in software development. Developers must automate the testing and deployment processes to reduce errors and speed up the time to market. They must also ensure that the software they deploy is of high quality and does not have any bugs or security vulnerabilities.
+After publishing this report, I provided a custom built adoption tool so my client could see what reports were being used. This was a top used report along with a gross margin version I built and published for them. 
 
-## Diversity and Inclusion:
-
-The tech industry has been criticized for its lack of diversity and inclusion, and software development is no exception. Developers must be aware of the biases they bring to the table and ensure that their software applications are accessible to all users, regardless of their background. This means creating software that is inclusive of different languages, cultures, and abilities.
-
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
-
-## Keeping up with emerging technologies:
-
-Finally, developers must stay up-to-date with emerging technologies such as AI, blockchain, and machine learning. These technologies have the potential to disrupt the tech industry and change the way software is developed and deployed. Developers must be ready to adapt to these changes and ensure that their software applications can leverage these technologies to provide the best user experience.
-
-In conclusion, software developers face a range of challenges in today's tech industry, from ensuring security and scalability to promoting diversity and keeping up with emerging technologies. Developers must be constantly learning and adapting to stay ahead of the curve and create software applications that meet the evolving needs of their users.
