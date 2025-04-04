@@ -13,6 +13,6 @@
   ,"ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "../../../static/Tim-Kelley-Resume.pdf"
+        "url": "/Tim-Kelley-Resume.pdf"
       }
 }

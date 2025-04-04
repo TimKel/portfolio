@@ -18,4 +18,7 @@ Let's spend less time on figuring out <i>what</i> the numbers are, and more time
 
 Reach out and let's get to work.
 
-<u>[Contact Me](mailto:timkelley683@gmail.com)</u> <a href="../../../static/Tim-Kelley-Resume.pdf" download> Resume </a>
+<u>[Contact Me](mailto:timkelley683@gmail.com)</u> 
+<u>
+<a href="/Tim-Kelley-Resume.pdf" download> Resume </a>
+</u>
