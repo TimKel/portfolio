@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "../Tim Kelley.pdf"
+        "url": "/Tim-Kelley-Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
