@@ -7,7 +7,7 @@
     "description": "Tim Kelley's Portfolio",
     "author": "Tim Kelley",
     "avatar": "../content/images/administrator-developer-icon.png",
-    "bio": "Tim Kelley is a software developer and data enthusiast currently based out of Las Vegas, NV",
+    "bio": "Tim Kelley is a Power BI developer and data enthusiast currently based out of Fort Collins, CO",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/TimKel",
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Tim Kelley.pdf"
+        "url": "../Tim Kelley.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
