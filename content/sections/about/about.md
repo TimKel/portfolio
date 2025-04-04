@@ -20,5 +20,5 @@ Reach out and let's get to work.
 
 <u>[Contact Me](mailto:timkelley683@gmail.com)</u>
 <u style="margin-left: 20px;">
-<a href="/Tim-Kelley-Resume.pdf" download> Resume </a>
+<a href="/Tim-Kelley-Resume.pdf" download> Download Resume </a>
 </u>

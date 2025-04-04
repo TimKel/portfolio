@@ -18,5 +18,10 @@
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
+  },
+  "button": {
+    "visible": true,
+    "label": "View My Resume",
+    "url": "/Tim-Kelley-Resume.pdf"
   }
 }
