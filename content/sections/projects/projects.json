@@ -14,8 +14,8 @@
       "links": [
         
         {
-          "type": "internal",
-          "url": "/blog"
+          "type": "external",
+          "url": "https://timkelley.dev/blog/"
         }
       ]
     },
