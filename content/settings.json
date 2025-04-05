@@ -21,8 +21,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog"},
-        { "label": "Projects", "url": "/#features" },
+        { "label": "Power BI", "url": "/blog"},
+        { "label": "All Projects", "url": "/#features" },
         { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {

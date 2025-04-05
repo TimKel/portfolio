@@ -2,10 +2,10 @@
   "projects": [
     {
       "visible": true,
-      "category": "Next level coffee for those who need a little extra",
-      "title": "☕️ Natural Nitro Labs Shopify",
-      "description": "Natural Nitro was a paid job to build the Shopify site for Natural Nitro Labs customers to find, learn and purchase Nitro Coffee. ",
-      "tags": ["Shopify", "CSS", "Multiple Plug-ins"],
+      "category": "Samples of anonymized client work I've developed",
+      "title": "Power BI Reporting Portfolio",
+      "description": "Over the years I've worked with numerous clients. Click to see samples of reports that I've built along with a few shared insights.",
+      "tags": ["Power BI", "DAX", "SQL", "Python"],
       "image": {
         "src": "../../images/naturalnitro.png",
         "alt": "Screenshot of Natural Nitro Store app",
