@@ -7,15 +7,15 @@
       "description": "Over the years I've worked with numerous clients. Click to see samples of reports that I've built along with a few shared insights.",
       "tags": ["Power BI", "DAX", "SQL", "Python"],
       "image": {
-        "src": "../../images/naturalnitro.png",
-        "alt": "Screenshot of Natural Nitro Store app",
-        "linkTo": "https://shop.naturalnitrocoffee.com"
+        "src": "../../images/powerBiImage.png",
+        "alt": "Image of PowerBI with devices containing dashboards",
+        "linkTo": "/blog"
       },
       "links": [
         
         {
-          "type": "external",
-          "url": "https://shop.naturalnitrocoffee.com"
+          "type": "internal",
+          "url": "/blog"
         }
       ]
     },
