@@ -1,37 +1,47 @@
 ---
-title: "Revenue reporting with a twist."
-description: "Revenue reporting with a twist."
-date: "2025-04-05"
+title: "Revenue Reporting in Tons: A Twist on Traditional Dashboards"
+description: "Revenue Reporting in Tons: A Twist on Traditional Dashboards"
+date: "2025-04-04"
 banner:
   src: "../../images/salesDashboardWithToolTips.png"
   alt: "Sales Dashboard Photo"
   caption: 'Report developed by <u>Tim Kelley</u>'
 categories:
-  - "Data-Warehousing"
   - "Power BI"
+  - "Data-Warehouse"
+  - "Revenue Reporting"
+  - "SAP"
 keywords:
   - "Azure Synapse"
+  - "SAP"
   - "Data-Warehouse"
   - "SQL"
   - "Power BI"
   - "DAX"
+  - "ALM Toolkit"
 ---
 
-## Overview
+## Technologies Used:
+Power BI - SQL - SSMS - ALM Toolkit - Azure Synapse
 
-What an excellent challenge this report was. Data was extracted from SAP into a custom built Data Warehouse. The client request was to not only see performance in dollars, but in tons as well. Within Tons, they needed to see it by Metric and US tons as well. Along with that, they needed to see a separation of closed revenue and open revenue. All of this in comparison to Revenue Plan as well. The solution was to create Switch statements in DAX, allowing the buttons to the left to flip the entire report to the desired metric definition. 
+## The Client:
+This client is a trusted supplier in the mining industry. Reports developed were largely Operations and Revenue. Tracking how a foundry conducts melts and building reporting around chemistry details was quite the learning experience.
 
-## Challenges:
+## Overview:
 
-This report was a challenge in itself based on what's above, but came out very successful. Switch statements allowed the functionality as requested. I also used bookmarks in the top right visual to provide a monthly and quarterly view depending on how larage the date selection was. I think the ultimately challenge I overcame here was determining an approach with numerous requests on how the report needed to function without adding additional pages and keeping the report lightning fast. 
+This report was designed to provide revenue visibility, but with a twist. The client needed to track performance in both dollars, and tons as they're a mining and melting company. They also needed to split tonnage by Metric and US tons. Additionally, they required a separation of closed revenue vs open revenue. All of this in comparison to Revenue Plan, needing to be sliced by different categories like Product and Customer.  
+
+## Process:
+
+Data was extracted from SAP into a custom-built data warehouse, where it's transformed and loaded into Power BI. To keep report performance fast, I broke key metrics down into optimized DAX measures using variables, and utilized `SWITCH` statements to create the functionality requests mentioned above. I also used Calculation Groups to reduce redundancy for values like SPLY measures. Lastly, I implemented bookmarks to toggle between a monthly and quarterly view based on the selected date range. 
 
 ## Custom Tooltips:
 
-To add more insight analysis, I created a custom tooltip. When an employee hovers over the 4 different slices or categories on the bottom left, they get additional detail on how that specific product, customer, etc is performing against their individual plans. 
+To enhance insight and usability, I built a custom tooltip. When an employee hovers over the four category slices on the bottom left, they get additional detail on how that specific product, customer, etc is performing against their individual plans. 
 
 ![This is the alt tag.](../../images/CustomToolTip.png "Example of the custom tooltip I built.")
 
 ## Adoption:
 
-After publishing this report, I provided a custom built adoption tool so my client could see what reports were being used. This was a top used report along with a gross margin version I built and published for them. 
+After publishing, I built a custom Usage Metrics Report so the client could track adoption of all reporting. This report quickly became one of their most-used tools alongside a gross margin version I also created. In total, I developed 5-6 different report suites for this client, each containing 3-5 pages on average. 
 
