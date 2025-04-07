@@ -1,6 +1,6 @@
 ---
-title: "Quote Performance & Client Engagement for Sales Teams"
-description: "Quote Performance & Client Engagement for Sales Teams"
+title: "Lightning Fast Insights to Service Billing and Cost"
+description: "Lightning Fast Insights to Service Billing and Cost"
 date: "2025-04-05"
 banner:
   src: "../../images/ServiceBillingSummary.png"
@@ -23,7 +23,7 @@ keywords:
 Power BI - DAX - SQL - SSMS  
 
 ## The Client:
-This client is a national HVAC company that was scaling quickly, creating a need for deeper company insights. My role was to collaborate with their technical team to create numerous reporting suites like revenue, operational reporting, marketing and pricing analysis, and others.  
+This client is a national HVAC company that was scaling quickly, creating a need for deeper company insights. My role was to collaborate with their technical team to create numerous reporting suites like revenue, operational reporting, marketing and pricing analysis.  
 
 ![This is the alt tag.](../../images/PriceUtilization.png "Using Field Parameters I was able to create a Price Analysis page that enabled comparison between numerous pricing KPI's based off Call Date vs Invoice Date, allowing the stakeholder to see why and where pricing spiked or dipped.")
 
@@ -31,7 +31,7 @@ This client is a national HVAC company that was scaling quickly, creating a need
 
 Stakeholders had a great grasp on metrics they needed and had reporting already. The challenge? Everything was still being done the hard way and in Excel. The goal was to bring reporting to a more modern look and feel with lightning fast insights. Being new to Power BI, it was important that different reports looked and felt similar to one another. This was a great backbone to work off of and having Excel reporting made validation work streamlined. Over the course of our engagement I was able to create a Power BI App with 4-5 reporting suites, each containing anywhere from 3-8 pages.  
 
-![This is the alt tag.](../../images/PriceUtilization2.png "This was a detail page in support of the page above you saw. The filters on the left provide the same dynamic capability for Price Analysis. Here the priority was to compare Regions and Major Accounts specifically.")
+![This is the alt tag.](../../images/PriceUtilization2fit.png "This was a detail page in support of the page above you saw. The filters on the left provide the same dynamic capability for Price Analysis. Here the priority was to compare Regions and Major Accounts specifically.")
 
 ## Saving Time and Money:
 
