@@ -25,7 +25,7 @@ Power BI - DAX - SQL - SSMS
 ## The Client:
 This client is a national HVAC company that was scaling quickly, creating a need for deeper company insights. My role was to collaborate with their technical team to create numerous reporting suites like revenue, operational reporting, marketing and pricing analysis.  
 
-![This is the alt tag.](../../images/PriceUtilization.png "Using Field Parameters I was able to create a Price Analysis page that enabled comparison between numerous pricing KPI's based off Call Date vs Invoice Date, allowing the stakeholder to see why and where pricing spiked or dipped.")
+![This is the alt tag.](../../images/PriceUtilizationFit.png "Using Field Parameters I was able to create a Price Analysis page that enabled comparison between numerous pricing KPI's based off Call Date vs Invoice Date, allowing the stakeholder to see why and where pricing spiked or dipped.")
 
 ## Overview:
 
