@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
-  "description": "Tim Kelley's Portfolio yo",
+  "description": "Tim Kelley's Portfolio",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",

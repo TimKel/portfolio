@@ -1,7 +1,7 @@
 ---
 title: "Revenue Reporting in Tons: A Twist on Traditional Dashboards"
 description: "Revenue Reporting in Tons: A Twist on Traditional Dashboards"
-date: "2025-04-04"
+date: "2025-04-06"
 banner:
   src: "../../images/salesDashboardWithToolTips.png"
   alt: "Sales Dashboard Photo"
